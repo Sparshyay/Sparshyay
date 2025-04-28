@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sparshyay
 - 👀 I’m interested in Full Stack Development, Graphic Design, App development
-- 🌱 I’m currently learning JS node
+- 🌱 I’m currently learning PostgresSQL
 - 💞️ I’m looking to collaborate on Application based projects Or SAAS projects
 - 📫 How to reach me LinkedIn - Sparsh Deshmukh
 - 😄 Pronouns: He/Him
